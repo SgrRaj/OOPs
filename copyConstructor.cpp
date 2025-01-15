@@ -33,8 +33,8 @@ class Teacher{
 
 int main(){
   Teacher t1("sagar","c++",2121442,"cse");
-  // t1.getInfo();
-  // cout<<" "<<endl;
+  t1.getInfo();
+  cout<<" "<<endl;
   
 
   Teacher t2(t1);
