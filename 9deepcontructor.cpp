@@ -34,6 +34,7 @@ int main(){
 
   *(s2.cgpaptr)=9.2;
   s1.getInfo();
+  s2.name="ranjan";
   s2.getInfo();
 }
 
