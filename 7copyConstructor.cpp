@@ -14,7 +14,7 @@ class Teacher{
       this->dept=dept;
       
     }
-          // self made copy constructor 
+          // self made copy constructor or custom copy constructor
     Teacher (Teacher &orgObj){    // call by refreance
       this->name=orgObj.name;
       this->subj=orgObj.subj;
