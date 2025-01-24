@@ -21,7 +21,7 @@ t1.name="Sagar raj";
 t1.age=21;
 t1.subj="oops";
 
-//njnj
+
 cout<<"name: "<<t1.name<<endl;
 cout<<"age: "<<t1.age<<endl;
 
