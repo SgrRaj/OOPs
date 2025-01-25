@@ -5,7 +5,7 @@ class Person{
   public:
 string name;
 Person(){
-  cout<<"hihihihihihi\n";
+  cout<<"contructor\n";
 }
 
 Person(string name){
