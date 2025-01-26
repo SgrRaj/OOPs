@@ -5,5 +5,5 @@ class Teacher{
  int age;
 };
 int main(){
-
+// fbhfbhtyfyytrb
 }
