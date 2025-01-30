@@ -18,7 +18,7 @@ class TA:public Student,public Teacher{
 int main(){
 TA t1;
 t1.name="Sagar raj";
-t1.age=21;
+t1.age=22;
 t1.subj="oops";
 
 
