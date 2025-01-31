@@ -19,7 +19,7 @@ int main(){
 TA t1;
 t1.name="Sagar raj";
 t1.age=22;
-t1.subj="oops";
+t1.subj="cpp";
 
 
 cout<<"name: "<<t1.name<<endl;
