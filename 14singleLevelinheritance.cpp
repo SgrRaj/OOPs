@@ -29,6 +29,6 @@ class Student :public Person {
 
 };
 int main(){
-Student s1("sagar raj",21,2121442);
+Student s1("Sagar Raj",21,2121442);
 s1.getInfo();
 }
